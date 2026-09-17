@@ -35,7 +35,7 @@ The Bank Management System is a comprehensive desktop application built with Jav
 ```text
 Bank_management/
 ├── .idea/
-├── icon/                              # Graphical assets and ATM interface background images
+├── icon/                              # Graphical assets and ATM interface background image
 ├── src/
 │   └── code/
 │       ├── Connn.java                 # JDBC connection manager
